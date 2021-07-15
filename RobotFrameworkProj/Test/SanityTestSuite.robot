@@ -18,6 +18,8 @@ SecondTest
     Remove Tags  regression   
 ThirdTest
     Log    hello world3
+FourthTest
+    Log    hello world4
     
     
 # FirstSeleniumTest
